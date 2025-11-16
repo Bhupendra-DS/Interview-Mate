@@ -1,0 +1,8 @@
+{
+    "Data Science": ["Data Analyst", "Data Engineer", "ML Engineer"],
+    "Web Development": ["Frontend Developer", "Backend Developer", "Full Stack Developer"],
+    "DevOps": ["DevOps Engineer", "Cloud Engineer"],
+    "Cybersecurity": ["Security Analyst", "Penetration Tester"],
+    "AI/ML": ["AI Engineer", "Deep Learning Engineer"]
+  }
+  

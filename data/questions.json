@@ -1,0 +1,14 @@
+{
+    "Data Analyst": [
+      "What are the different types of joins in SQL?",
+      "Explain normalization and its importance.",
+      "How do you handle missing data?",
+      "What is the difference between supervised and unsupervised learning?"
+    ],
+    "Frontend Developer": [
+      "What is the virtual DOM in React?",
+      "Difference between var, let, and const?",
+      "How do you improve web app performance?"
+    ]
+  }
+  
